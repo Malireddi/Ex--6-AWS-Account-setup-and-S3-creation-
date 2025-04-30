@@ -1,4 +1,4 @@
-# Ex--2-AWS-Account-setup-and-S3-creation
+# Ex--1-AWS-Account-setup-and-S3-creation
 ~~~
 Name : Nandyala Malyadri Reddy
 reg.no : 212223100037
